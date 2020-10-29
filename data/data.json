@@ -1,0 +1,6 @@
+{"index": {"_index": "test","_type": "_doc","_id": "1"}}
+{"company": "Microsoft", "products": "Windows .NET Office 365 Visual Studio Azure"}
+{"index": {"_index": "test","_type": "_doc","_id": "2"}}
+{"company": "Google", "products": "G Suite GCP Golang Flutter"}
+{"index": {"_index": "test","_type": "_doc","_id": "3"}}
+{"company": "Apple", "products": "MacOS iOS Swift iPhone"}
