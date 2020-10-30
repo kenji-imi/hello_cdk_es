@@ -1,6 +1,6 @@
 {"index": {"_index": "test","_type": "_doc","_id": "1"}}
-{"company": "Microsoft", "products": "Windows .NET Office 365 Visual Studio Azure"}
+{"company": "SHARP", "products": "SHARP AQUOS 4T-C50BN1"}
 {"index": {"_index": "test","_type": "_doc","_id": "2"}}
-{"company": "Google", "products": "G Suite GCP Golang Flutter"}
+{"company": "Panasonic", "products": "Panasonic VIERA HZ2000"}
 {"index": {"_index": "test","_type": "_doc","_id": "3"}}
-{"company": "Apple", "products": "MacOS iOS Swift iPhone"}
+{"company": "SONY", "products": "SONY BRAVIA KJ-65A8H"}
